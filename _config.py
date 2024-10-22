@@ -1,23 +1,23 @@
 # Config
 class Config(object):
     # Your bot name - Required (str)
-    BOT_NAME = "public"
+    BOT_NAME = "yt_videos_downloader7bot"
     # A name for users - Required (str)
-    BOT_NAME_FOR_USERS = "Video Downloader bot by upekshaip"
+    BOT_NAME_FOR_USERS = "Video Downloader bot by harsh"
     # Add all admin id's as a list - Required (lst[int])
-    ADMIN = [0000000000]
+    ADMIN = [IAMHARSHUX]
     # Add your telegram API ID - Required (int)
-    API_ID = 0000000
+    API_ID = 26506707
     # Add your Telegram API HASH - Required (str)
-    API_HASH = ""
+    API_HASH = "4b230e9e8ce8b8441658e1149827c9b6"
     # Add your telegram bot token (str)
-    BOT_TOKEN = ""
+    BOT_TOKEN = "7606230380:AAF8x3u3R0y7SEhieVQhx4A3x2N6ZA8naK8"
     # Add telegram Log channel Id - Required (int)
     LOGS_ID = -0000000000000
     # Add main channel to subscribe - Required (int)
-    SUBSCRIBE_CHANNEL = -0000000000000
+    SUBSCRIBE_CHANNEL = -https://www.youtube.com/@Hydria_o
     # Add subscription channel - Required (str)
-    SUBSCRIBE_CHANNEL_URL = "https://t.me/upekshaip"
+    SUBSCRIBE_CHANNEL_URL = "https://www.youtube.com/@Hydria_o"
 
     # Cookie file URL
     # EX: "https://path/to/your/cookie-file.txt"
@@ -83,7 +83,7 @@ __this will download all videos from --index 1-- to --index 4-- on that playlist
 
 
 
-__Developed by__ @upekshaip
+__Developed by__ @IAMHARSHUX
 """
 
 # Firebase initialization
